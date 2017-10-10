@@ -1,0 +1,43 @@
+== Atom Packages
+
+=== Atom Keybindings keymap Packages
+
+. intellij-idea-keymap
+https://atom.io/packages/intellij-idea-keymap[intellij-idea-keymap]
+
+
+=== Atom Tools Packages
+
+. project-manager
+https://atom.io/packages/project-manager[project-manager]
+
+. atom-beautify
+https://atom.io/packages/atom-beautify[atom-beautify]
+
+
+=== Atom AsciiDoc packages
+
+. asciidoc-assistant
+https://atom.io/packages/asciidoc-assistant[asciidoc-assistant]
+
+. asciidoc-preview
+https://atom.io/packages/asciidoc-preview[asciidoc-preview]
+
+. asciidoc-image-helper
+https://atom.io/packages/asciidoc-image-helper[asciidoc-image-helper]
+
+. autocomplete-asciidoc
+https://atom.io/packages/autocomplete-asciidoc[autocomplete-asciidoc]
+
+. language-asciidoc
+https://atom.io/packages/language-asciidoc[language-asciidoc]
+
+=== Atom pandoc packages
+
+. pandoc-convert
+https://atom.io/packages/pandoc-convert[pandoc-convert]
+
+=== Atom Salesforce packages
+
+. MavensMate-Atom
+https://atom.io/packages/MavensMate-Atom[MavensMate-Atom]
